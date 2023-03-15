@@ -14,7 +14,7 @@
 
 #### Регистрация нового пользователя. Сохраняется в базу данных вместе с Telegram user id.
 
-<img src="https://github.com/Nik00100/Projects/Booking_bot/blob/main/screenshots/1.jpg" height="600" /><br>
+![](screenshots/1.jpg) 
 
 #### Бронирование
 
@@ -24,5 +24,7 @@
 
 #### Добавление объекта в каталог и редактирование прав пользователя (доступно только администратору)
 
-<img src="https://github.com/Nik00100/Projects/Booking_bot/blob/main/screenshots/4.jpg" height="600" /> <img src="https://github.com/Nik00100/Projects/Booking_bot/blob/main/screenshots/5.jpg" height="600" /> <img src="https://github.com/Nik00100/Projects/Booking_bot/blob/main/screenshots/6.jpg" height="600" /> 
+![](screenshots/4.jpg) 
+![](screenshots/5.jpg) 
+![](screenshots/6.jpg) 
 
