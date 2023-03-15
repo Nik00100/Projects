@@ -18,7 +18,8 @@
 
 #### Бронирование
 
-<img src="https://github.com/Nik00100/Projects/Booking_bot/blob/main/screenshots/2.jpg" height="600" /> <img src="https://github.com/Nik00100/Projects/Booking_bot/blob/main/screenshots/3.jpg" height="600" /><br>
+![](screenshots/2.jpg) 
+![](screenshots/3.jpg)
 
 
 #### Добавление объекта в каталог и редактирование прав пользователя (доступно только администратору)
