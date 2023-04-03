@@ -14,6 +14,4 @@
 
 Запуск игры:
 
-1) Запустите IntelliJ IDEA и создайте новый файл, используя GIT (File -> New -> Project from Version Control...).
-2) Ссылка для скачивания https://github.com/Nik00102/ProjectSokoban.git .
-3) Скомпилируйте файл Controller.java.
+1) Скомпилируйте файл Controller.java.
