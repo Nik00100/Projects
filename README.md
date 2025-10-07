@@ -1,1 +1,1 @@
-Each folder is independent project 
+Each folder is independent project  
